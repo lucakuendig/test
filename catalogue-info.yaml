@@ -7,6 +7,6 @@ metadata:
   annotations:
     'backstage.io/kubernetes-id': clust
 spec:
-  type: website
+  type: service
   owner: john@example.com
   lifecycle: experimental
